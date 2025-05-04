@@ -47,7 +47,7 @@ sudo apt install sshfs openssh-client
 1. **Download the script:**
 
 ```bash
-curl -O https://your.repo.url/install-sshfs-autologin.sh
+curl -O https://github.com/nate177/sshfs-autologin/install-sshfs-autologin.sh
 chmod +x install-sshfs-autologin.sh
 ```
 
